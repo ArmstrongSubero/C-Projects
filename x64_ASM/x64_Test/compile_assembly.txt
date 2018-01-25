@@ -1,0 +1,3 @@
+nasm hello.asm -f win64 -o hello.obj
+gcc hello.obj -m64 -o hello.exe
+./hello.exe
