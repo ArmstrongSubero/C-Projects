@@ -1,1 +1,1 @@
-This repository contains projects done in the C programming language
+This repository contains projects done for Intel x64 Architecture
